@@ -5,18 +5,18 @@ window.requestAnimationFrame(function () {
 
 
     var imageList = [
-        "https://lekagh.github.io/img/2.png",
-        "https://lekagh.github.io/img/4.png",
-        "https://lekagh.github.io/img/8.png",
-        "https://lekagh.github.io/img/16.png",
-        "https://lekagh.github.io/img/32.png",
-        "https://lekagh.github.io/img/64.png",
-        "https://lekagh.github.io/img/128.png",
-        "https://lekagh.github.io/img/256.png",
-        "https://lekagh.github.io/img/512.png",
-        "https://lekagh.github.io/img/1024.png",
-        "https://lekagh.github.io/img/2048.png",
-        "https://lekagh.github.io/img/super.png"
+        "https://lekagh.github.io/Oispa-Karkkii/img/2.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/4.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/8.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/16.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/32.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/64.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/128.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/256.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/512.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/1024.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/2048.png",
+        "https://lekagh.github.io/Oispa-Karkkii/img/super.png"
 
     ];
     for(var i = 0; i < imageList.length; i++ )
