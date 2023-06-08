@@ -1,4 +1,4 @@
-# Oispa Sipsii!
-Pystytkö syömään monta Sipsii ja tekemään niistä parempia?
+# Oispa Karkkii!
+Pystytkö kestää sokerihumalaa karkeilla ja yhdistää niistä parempia?
 
 Pelaa [täällä](./)!
