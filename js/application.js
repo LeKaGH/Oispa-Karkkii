@@ -5,7 +5,7 @@ window.requestAnimationFrame(function () {
 
 
     var imageList = [
-        "/img/2.png",
+        "./img/2.png",
         "./img/4.png",
         "./img/8.png",
         "./img/16.png",
